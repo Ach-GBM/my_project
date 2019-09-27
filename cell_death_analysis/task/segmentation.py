@@ -4,7 +4,7 @@ import numpy as np_
 import scipy.ndimage as im_
 import skimage.morphology as mp_
 import os
-import nucl_seg as nucl_sg
+
 
 
 

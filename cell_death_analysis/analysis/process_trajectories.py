@@ -1,5 +1,5 @@
 import numpy as np_
-from analysis import death_time_fuctions_ as df_
+from analysis import death_time_functions_ as df_
 from analysis.death_time import CellDeath_t
 from run_parameters import to_frame
 
